@@ -1,0 +1,39 @@
+# Personal Information: Arman Shikalgar 
+
+**Name** Arman Shikalgar 
+**Birthdate** August 01, 2004 
+**Place of Birth** Kolhapur, Maharashtra, India 
+
+## About Me 
+
+I`m Arman Shikalgar, a **Data Analyst** with the passion of creating innovative. I have honed my skills through learning. I am dedicated to staying at the cutting edge of technology, constantly learning and evolving my craft. My curiosity and love for the coding have also led me to explore creative coding endeavors. 
+
+## Interests: 
+
+**Anime**: I love watching anime, especially shows that dive deep into technology, artificial intelligence, and adventure. 
+  Some of my favorites include "Steins:Gate" and "Sword Art Online." 
+*Movies & Series*: I`m an avid movie and series buff. I enjoy watching a mix of sci-fi, thrillers, and documentaries. 
+
+
+## Education: 
+
+*Bachelors in Technology (B.Tech AIML&DS)*: Dr. J. J. Magdum College of Engineering. 
+*Diploma in Computer Science*: Institute of Civil and Rural Engineering. 
+
+
+## Technical Skills: 
+
+I have an extensive skill set: 
+
+*Frontend*: HTML, CSS, Javascript, Bootstrap. 
+*Programming Languages*: Python, Javascript, PHP, R. 
+
+
+## Personal Projects 
+*Movie Search Web App*
+*E-commerce Frontend* 
+*Github Search Web App* 
+*Desktop Assistent* 
+
+
+## Languages: *English*, *Hindi*, *Marathi*
